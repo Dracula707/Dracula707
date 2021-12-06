@@ -18,7 +18,7 @@
 Hello there! I'm known as Dracula on the internet.
 I'm a junior full-stack web developer.
 I love making and designing webpages with HTML5, CSS3 and JavaScript(TS).
-I also enjoy programming in Go and Rust because they challenge me more. 
+I also enjoy programming in Go because they challenge me more. 
 
 
 <h3 align='center'>❄️️ Other hobbies/interests</h3>
